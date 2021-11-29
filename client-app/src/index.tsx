@@ -1,8 +1,8 @@
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
-
 import "semantic-ui-css/semantic.min.css";
+import "react-calendar/dist/Calendar.css";
 import { StoreContext, store } from "./app/stores/store";
 import './App.css'
 import { BrowserRouter } from "react-router-dom";
