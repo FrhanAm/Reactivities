@@ -4,6 +4,7 @@ import App from "./App";
 import "semantic-ui-css/semantic.min.css";
 import "react-calendar/dist/Calendar.css";
 import "react-toastify/dist/ReactToastify.min.css";
+import "react-datepicker/dist/react-datepicker.css";
 import { StoreContext, store } from "./app/stores/store";
 import "./App.css";
 import { Router } from "react-router-dom";
